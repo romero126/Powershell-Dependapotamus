@@ -1,0 +1,6 @@
+
+Target:
+%SystemRoot%\SysWOW64\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy Bypass -WindowStyle Hidden .\start.ps1
+
+StartIn:
+<Leave this space blank>
